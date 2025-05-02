@@ -1,0 +1,4 @@
+Stock ID,Item Name,Category,Price,Quantity,Low Stock Threshold,Brand,Supplier,Purchase Date,Description
+1,Ruby Brooch,Brooches,500000.0,2,5,Red Radiance,Ruby wholesale,03/03/25,A vinetage inspired brooch featuring a brillannt ruby centerpiece that adds a touch of elegance
+3,watch,Rings,40000.0,4,5,xyz,xyz,03/03/25,good
+4,karthick,Rings,50000.0,2,5,xyz,xyz,03/03/25,good
